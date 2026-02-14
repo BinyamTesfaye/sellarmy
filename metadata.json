@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SellArmy",
+  "description": "A professional, mobile-first marketplace platform connecting high-quality clothing sellers with a powerful army of resellers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
